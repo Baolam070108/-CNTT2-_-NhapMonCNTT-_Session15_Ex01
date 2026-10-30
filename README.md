@@ -10,7 +10,7 @@ Bạn A chỉ lưu file thiết kế 3D trên ổ cứng máy tính và gửi qu
 # 3. Cách làm ra sao?
 a. Luồng dữ liệu từ SSD lên Cloud:
 
-Designer chỉnh sửa file → Nhấn Ctrl + S để lưu vào SSD → Phần mềm tự động đồng bộ file lên Cloud → Có thể khôi phục file cũ bằng Version History.
+SSD --> GOOGLE DRIVE FOR DESKTOP(ADD FOLDER --> SYNC WITH GOOGLE DRIVE FOR DESKTOP --> CLOUD
 
 b. Ba bước thiết lập đồng bộ dữ liệu lên Cloud:
 - Bước 1: Cài đặt Google Drive hoặc OneDrive và đăng nhập tài khoản.
@@ -24,10 +24,4 @@ b. Ba bước thiết lập đồng bộ dữ liệu lên Cloud:
 
 
 
-Is this conversation helpful so far?
 
-**Cách hoạt động dễ hiểu:**
-
-Bạn A sửa file trên máy tính → Nhấn `Ctrl + S` để lưu → Phần mềm tự động sao chép file lên Cloud → Nếu file bị lỗi, mở Version History để lấy lại bản cũ.
-
-**Kết luận:** Cách làm này giúp nhóm hạn chế mất dữ liệu và khôi phục file khi xảy ra sự cố.
